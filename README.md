@@ -1,6 +1,10 @@
 <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <h1 align="center">Hi 👋, I'm Rishi raj singh</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p margin-left="10px" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Frontend+Developer;Fullstack+web+Developer" > 
 </p>
