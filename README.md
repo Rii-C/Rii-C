@@ -31,9 +31,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rii-c&theme=zenburn)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rii-c&show_icons=true&locale=en&layout=compact" alt="rii-c" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rii-c&theme=zenburn)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rii-c&show_icons=true&locale=en" alt="rii-c" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rii-c&theme=zenburn)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rii-c&" alt="rii-c" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rii-c&theme=zenburn)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rii-c&theme=zenburn&utcOffset=8)
 
