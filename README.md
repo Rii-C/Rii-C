@@ -35,8 +35,10 @@
 </p>
 
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<h2 align="left"> 💻 Languages and Tools:</h2>
 <table align="center">
   <tr>
       <td align="center" width="96">
@@ -136,6 +138,9 @@
 
   </tr>
 </table>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   
   
@@ -148,6 +153,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rii-c&theme=zenburn&utcOffset=8">
 	
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
