@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h1 align="center">Hi 👋, I'm Rishi raj singh</h1>
+<h1 align="center">Hi 👋, I'm Rishi Raj Singh</h1>
 
 <p margin-left="10px" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Frontend+Developer;Fullstack+web+Developer" > 
