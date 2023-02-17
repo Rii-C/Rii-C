@@ -1,3 +1,4 @@
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <h1 align="center">Hi 👋, I'm Rishi raj singh</h1>
 <p margin-left="10px" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Frontend+Developer;Fullstack+web+Developer" > 
