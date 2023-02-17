@@ -38,5 +38,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rii-c&theme=zenburn)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rii-c&theme=zenburn&utcOffset=8)
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rii-c&theme=zenburn&utcOffset=8"/>
   </p>
