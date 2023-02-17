@@ -34,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rii-c&show_icons=true&locale=en" alt="rii-c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rii-c&" alt="rii-c" /></p>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit1469&theme=solarized_dark&utcOffset=8">
+	
+</p>
