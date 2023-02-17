@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi raj singh</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Backend+Developer;Fullstack+Developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Frontend+Developer;Fullstack+web+Developer" > 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rii-c&label=Profile%20views&color=0e75b6&style=flat" alt="rii-c" /> </p>
