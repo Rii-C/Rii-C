@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **mongoDB, express, node.js**
 
-- 👨‍💻 All of my projects are available at [rii-c.github.io](rii-c.github.io)
+- 👨‍💻 All of my projects are available at [rii-c.github.io](https://rii-c.github.io/)
 
 - 💬 Ask me about **react, javascript**
 
