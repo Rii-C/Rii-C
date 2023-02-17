@@ -43,3 +43,15 @@
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rii-c&theme=zenburn&utcOffset=8"/>
  
   </Box>
+  
+  
+  
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit1469&theme=solarized_dark&utcOffset=8">
+	
+</p>
