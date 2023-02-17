@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi raj singh</h1>
-<p align="center">
+<p marginLeft="10px" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Frontend+Developer;Fullstack+web+Developer" > 
 </p>
 
